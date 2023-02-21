@@ -5,3 +5,4 @@ Berikut ini hal yang perlu dilakukan dalam penambahan fitur :
 * a. Login
 * b. CRUD
 * c. Profile
+* d. Logout
