@@ -6,3 +6,6 @@ Berikut ini hal yang perlu dilakukan dalam penambahan fitur :
 * b. CRUD
 * c. Profile
 * d. Logout
+
+Berikut ini hal yag perlu dibenahi kembali :
+* a. CRUD 
