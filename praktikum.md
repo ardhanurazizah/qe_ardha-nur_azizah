@@ -9,3 +9,4 @@ Berikut ini hal yang perlu dilakukan dalam penambahan fitur :
 
 Berikut ini hal yag perlu dibenahi kembali :
 * a. CRUD 
+* b. Profile
